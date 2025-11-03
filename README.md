@@ -1,6 +1,6 @@
-# 🍎 NutriCalc – Software de Cálculo Nutricional  
+# 🍎 NutriSoft – Software de Cálculo Nutricional  
 
-**NutriCalc** é um aplicativo desktop desenvolvido em **Java (NetBeans + Swing)**, criado para auxiliar **nutricionistas** em cálculos rotineiros de **avaliação corporal e recomendações nutricionais**.  
+**NutriSoft** é um aplicativo desktop desenvolvido em **Java (NetBeans + Swing)**, criado para auxiliar **nutricionistas** em cálculos rotineiros de **avaliação corporal e recomendações nutricionais**.  
 
 🧑‍🎓 Projeto acadêmico desenvolvido no **curso Senac EAD (2022)**.
 
